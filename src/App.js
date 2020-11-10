@@ -7,7 +7,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Edit <code>src/App.js</code> and save to reload staging 2.
+=======
+          Staging 2
+        </p>
+        <p>
+          Staging 2
+        </p>
+        <p>
+          Staging 2
+>>>>>>> staging
         </p>
         <a
           className="App-link"
